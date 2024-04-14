@@ -1,0 +1,7 @@
+print("Por favir, insira seu endereço.")
+rua = input('Rua: ')
+numero = int(input('Nº: '))
+bairro = input('Bairro: ')
+cidade = input('Cidade: ')
+uf = input('UF: ')
+print('Rua',rua,',Nº',numero,',Bairro',bairro,',Cidade',cidade,',UF-',uf)
